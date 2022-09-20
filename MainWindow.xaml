@@ -9,7 +9,8 @@
 
     <StackPanel x:Name="grid1"
                 Background="Transparent">
-        <Border Background="Magenta">
+        <Border Background="Wheat">
+            <!--ji-->
             <!--<Border.Background>
                 <LinearGradientBrush StartPoint="0,0"
                                      EndPoint="1,1">
@@ -25,7 +26,7 @@
             </Border.Background>-->
             <Grid x:Name="AppTitleBar"
                   Height="32"
-                  Background="Transparent">
+                  Background="#512bdf">
                 <!--<Grid.Background>
                     <ImageBrush Stretch="Uniform" ImageSource="Assets/butterfly.png" AlignmentY="Top" AlignmentX="Left"/>
                 </Grid.Background>-->
